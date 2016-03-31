@@ -4,12 +4,14 @@ A story built by the readers.
 This project is based on the concept of a chose your own adventure book.
 Instead of choosing a choice, however, you write your own story.
 
-
-
 The story wil be sorted into chapters. When you submit your addition, label it with the chapter number it should be.
 I will attempt to review submissions at least once a week, but no guarantees.
 
 # Submision
+Submissions will be made by using Github's pull request feature. To do so, you first must fork the repo.
+This will give you the most up-to-date version.
+Next, make your addition, checking for any mistakes.
+Finaly, create a pull request, and I will eventualy review it. 
 
 # Rules
 The story must relate to the previous chapter written.
