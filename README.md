@@ -16,8 +16,8 @@ Finaly, create a pull request, and I will eventualy review it.
 # Rules
 The story must relate to the previous chapter written.
 
-For example, if the charater has just been teleoprted to another dimension, they cannot appear back at home.
-This is a general rule, but important to avoid the story from disintegration into random nothingness.
+For example, if the charater has just been teleported to another dimension, they cannot randomly appear back at home.
+This is a general rule, but important to avoid the story from disintegrating into random nothingness.
 
 This story should be rated Teen or below. No random swearing, and no lemons.
 
