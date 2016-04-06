@@ -7,7 +7,7 @@ Instead of choosing a choice, however, you write your own story.
 The story wil be sorted into chapters. When you submit your addition, label it with the chapter number it should be.
 I will attempt to review submissions at least once a week, but no guarantees.
 
-# Submision
+# Submission
 Submissions will be made by using Github's pull request feature. To do so, you first must fork the repo.
 This will give you the most up-to-date version.
 Next, make your addition, checking for any mistakes.
@@ -22,3 +22,6 @@ This is a general rule, but important to avoid the story from disintegrating int
 This story should be rated Teen or below. No random swearing, and no lemons.
 
 **Please.**
+
+# License
+This project is licensed under the MIT License. By contributing to this project, you agree to release your contribution under the MIT License.
