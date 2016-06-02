@@ -1,4 +1,4 @@
-# GithubStoryProject
+# GithubStoryProject (Currently under Hiatus.)
 A story built by the readers.
 
 This project is based on the concept of a chose your own adventure book.
